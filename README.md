@@ -44,6 +44,5 @@ Average Donation – In combination with Pledge Levels offered, this could show 
 
 ## Attachments
 1. [Kickstarter_Excel](https://github.com/nseddon/kickstarter_analysis/blob/main/Kickstarter_Excel.xlsx) - Spreadsheet containing raw data and analysis tabs.
-2. [Parent Category Outcomes Chart](https://github.com/nseddon/kickstarter_analysis/blob/main/Parent_Company_Outcomes_Chart.png) - All Kickstarter categories, with focus on the US market.
-3. [US Subcategory Breakdown](https://github.com/nseddon/kickstarter_analysis/blob/main/US_Subcategory_Breakdown.png) - Theater subcategory data, with focus on the US market.
-4. [US Outcomes Based on Launch Data](https://github.com/nseddon/kickstarter_analysis/blob/main/US_Outcomes_Based_on_Launch_Date.png) - Monthly analysis of Theater Kickstarters.
+2. [US Subcategory Breakdown](https://github.com/nseddon/kickstarter_analysis/blob/main/US_Subcategory_Breakdown.png) - Theater subcategory data, with focus on the US market.
+3. [US Outcomes Based on Launch Data](https://github.com/nseddon/kickstarter_analysis/blob/main/US_Outcomes_Based_on_Launch_Date.png) - Monthly analysis of Theater Kickstarters.
