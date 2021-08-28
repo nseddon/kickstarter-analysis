@@ -25,15 +25,19 @@ No challenges or difficulties were encountered.  The client provided clear instr
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Based on launch date, the data supports ‘play’ projects have a launch data of May or June, while avoiding launch dates in December or January.
 
 - What can you conclude about the Outcomes based on Goals?
+
 Based on funding goals, the data supports ‘play’ projects with a funding goal of less than $5000 have the highest chance of successful funding.  Less than 50% of projects with an initial goal of more than $15000 successfully fund (with only a couple outliers).
 
 - What are some limitations of this dataset?
+
 The data obtained does not include projects from April 2017 through current.  Trends may have changed based off economic and world health impacts in recent years.  The analysis requested also did not require any rating systems designed around the content of the plays.  User feedback, Campaign Page Presentation/Information, Pledge level data, and Staff Picks may have additional impact on the dataset tested.
 
 - What are some other possible tables and/or graphs that we could create?
+
 Staff Picks – This table could show a link between a “Staff Picked” Campaign versus non-staff picked campaigns for potential funding success.
 Length of Campaign – Analysis of the length of the campaign could indicate trends in funding amounts that occurred during specific portions of the campaign versus the overall campaign.
 Average Donation – In combination with Pledge Levels offered, this could show a trend towards user interest in these specific types of campaigns.  It could also be used to adjust pledge levels prior to the campaign to enhance the user experience, which in turn could lead to an increase of the average pledge obtained.
