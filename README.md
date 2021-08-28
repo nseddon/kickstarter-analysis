@@ -45,4 +45,4 @@ Average Donation – In combination with Pledge Levels offered, this could show 
 ## Attachments
 1. [Kickstarter_Excel](https://github.com/nseddon/kickstarter_analysis/blob/main/Kickstarter_Excel.xlsx) - Spreadsheet containing raw data and analysis tabs.
 2. [Outcomes_vs_Goals](https://github.com/nseddon/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png) - Line chart highlighting degree of success/fail/canceled based on initial funding goals.
-3. [US Outcomes Based on Launch Data](https://github.com/nseddon/kickstarter_analysis/blob/main/US_Outcomes_Based_on_Launch_Date.png) - Monthly analysis of Theater Kickstarters.
+3. [Theater_Outcomes_vs_Launch](https://github.com/nseddon/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png) - Monthly analysis of Theater projects degree of success/fail/canceled based on project launch date.
