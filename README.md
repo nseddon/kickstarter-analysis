@@ -26,11 +26,11 @@ No challenges or difficulties were encountered.  The client provided clear instr
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Based on launch date, the data supports ‘play’ projects have a launch data of May or June, while avoiding launch dates in December or January.
+Based on launch date, the data supports ‘play’ projects with a launch data of May or June have a greater chance of successful funding.  Launch dates in December or January have a lower chance of successful funding.
 
 - What can you conclude about the Outcomes based on Goals?
 
-Based on funding goals, the data supports ‘play’ projects with a funding goal of less than $5000 have the highest chance of successful funding.  Less than 50% of projects with an initial goal of more than $15000 successfully fund (with only a couple outliers).
+Based on funding goals, the data supports ‘play’ projects with a funding goal of less than $5000 have a greater chance of successful funding.  Less than 50% of projects with an initial goal of more than $15000 successfully fund (with a few outliers).
 
 - What are some limitations of this dataset?
 
