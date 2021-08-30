@@ -43,6 +43,6 @@ Length of Campaign – Analysis of the length of the campaign could indicate tre
 Average Donation – In combination with Pledge Levels offered, this could show a trend towards user interest in these specific types of campaigns.  It could also be used to adjust pledge levels prior to the campaign to enhance the user experience, which in turn could lead to an increase of the average pledge obtained.
 
 ## Attachments
-1. [Kickstarter_Excel](https://github.com/nseddon/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx) - Spreadsheet containing raw data and analysis tabs.
-2. [Outcomes_vs_Goals](https://github.com/nseddon/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png) - Line chart highlighting degree of success/fail/canceled based on initial funding goals.
-3. [Theater_Outcomes_vs_Launch](https://github.com/nseddon/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png) - Monthly analysis of Theater projects degree of success/fail/canceled based on project launch date.
+1. [Kickstarter_Challenge.xlsx](https://github.com/nseddon/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx) - Spreadsheet containing raw data and analysis tabs.
+2. [Outcomes_vs_Goals.png](https://github.com/nseddon/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png) - Line chart highlighting degree of success/fail/canceled based on initial funding goals.
+3. [Theater_Outcomes_vs_Launch.png](https://github.com/nseddon/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png) - Monthly analysis of Theater projects degree of success/fail/canceled based on project launch date.
